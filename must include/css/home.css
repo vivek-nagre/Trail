@@ -1,0 +1,43 @@
+.homecrousal img{
+    height: 400px;
+    border-radius: 30px;
+
+}
+.homecrousal h2{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+}
+.cardbody{
+margin: 23px;
+}
+.shree{
+    font-size: 20px;
+    text-align: justify;
+    padding: 10px;
+}
+.cardimg img{
+    height: 300px;
+    width: 300px;
+    /* padding-left: auto; */
+    margin: 10px auto;
+    border-radius: 30%;
+}
+
+.cardimg h5{
+    text-align: center;
+}
+.cardimg p{
+    text-align: justify;
+    font-weight: 500;
+    font-size: 18px;
+}
+.cardimg{
+    text-transform: capitalize;
+}
+.socialhandel{
+    /* color: red; */
+    text-decoration: none !important;
+}

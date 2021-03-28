@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* index page style */
+.list-item ul li a{
+    color:white ;
+    font-size: 22px;
+    margin: 2px 25px;
+    padding: 0px !important;
+    border: none;
+}
+.navbar-brand img{
+  
+    border-radius: 50px;
+    margin-right: 60px;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.list-item ul li a:hover{
+    /* background-color: white; */
+    color: red !important;
+    border-radius: 30px;
+    padding: 5px !important;
+    border: none !important;
+}
+
+/* nav-bar styling end */
+
+
+/* index page layout */
+
+.dr_intro{
+    text-transform: capitalize;
+   
+}
+/* doctor imformation */
+.Myintro{
+    text-align: justify;
+    /* word-spacing: 5px; */
+    /* margin: 0px 5px; */
+    font-size: 20px;
+    text-indent: 50px;
+   
+    text-transform: capitalize;
+}
+
+/* copy right common style for all page */
+.copy{
+    text-align: center;
+    text-transform: capitalize;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+/* section style */
+.opbackground{
+background: url(/image/bjpbg.jpg) !important;
+
+height: 550px;
+background-repeat: no-repeat !important;
+background-position: center !important;
+background-size: cover !important;
+}
+
+/* sunil kayande image */
+
+
+.opbackground img{
+    border-radius: 40%;
+    /* margin-top: 70px !important; */
+    
+    width: 200px;   
+
+    border: none;
+}
+
+.intro{
+    
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+/* index.html style fineshed */
